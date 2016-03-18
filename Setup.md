@@ -34,6 +34,8 @@ The following components are required to run Hygieia:
                   ... {role: "readWrite", db: "dashboarddb"}
                         ... ]
                 ... })
+                
+                Output of the createUser command as follows
                 Successfully added user: {
                   "user" : "dashboarduser",
                   "roles" : [
